@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Aguri Cano](https://github.com/aman-atg) 👨‍💻
+### Hi there 👋, I'm [Aguri Cano](https://github.com/AguriCano) 👨‍💻
 
 <br/>
 
@@ -6,12 +6,8 @@
   <img align="left" alt="Aguri's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/amanatg0">
+<a href="@Aguri_Cano">
   <img align="left" alt="Aguri's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aguri Cano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="mailto:aguricano@gmail.com">
@@ -36,12 +32,12 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
+- 👨🏽‍💻 I’m currently working on my own projects (React.js Dev.)
+- 🌱 I’m currently learning React and Animation
 - 🤔 I’m looking for help for my future MERN projects
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing guitar, Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: aguricano@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
